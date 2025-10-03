@@ -1,2 +1,2 @@
-# c-_notes
+# C++_notes
 c++_notes
